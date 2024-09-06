@@ -1,7 +1,3 @@
-# 버츄어팹 물류현황
+# Geopolitical Risk News Alert for Div. Materials of SK hynix
 
-To R&D 물류 TP님
-### 좌측 메뉴에서 금일 일자를 찾아 사외배송 업무 확인바랍니다!
-끝
-
-#### 서비스기획자 : 이광원 SK hynix 내선 (031-5184-6204)
+#### 서비스 기획 및 개발 : 이광원 SK hynix (010-2772-0661)
